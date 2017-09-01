@@ -1,0 +1,10 @@
+<testsuites name="foobar">
+  <testsuite name="foo" tests="1" errors="0" failures="0" skipped="0" timestamp="2017-09-01T00:46:14" time="0.387">
+    <testcase classname="foo should bar" name="foo should bar" time="0.004">
+    </testcase>
+  </testsuite>
+  <testsuite name="foo" tests="1" errors="0" failures="0" skipped="0" timestamp="2017-09-01T00:46:14" time="0.387">
+    <testcase classname="foo should bar" name="foo should bar" time="0.004">
+    </testcase>
+  </testsuite>
+</testsuites>
